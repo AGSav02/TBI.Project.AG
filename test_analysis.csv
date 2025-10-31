@@ -1,0 +1,11 @@
+ID,Sequence,Structure,MFE
+sequenc_1,GGGGGCATAGCTCAGTGGTAGAGCATTTGACTGCAGATCAAGAGGTCCCTGGTTCAAATCCAGGTGCCCCCT,(((((((..((((.......))))...........((((....))))(((((.......)))))))))))).,-28.799999237060547
+sequenc_1,GATATGTCAGGTAGCAGCCCTTCAGGCTGGTCATGAGTCCAGCCCAAAATGGCTGGGACTTCCCAGGAGGTT,......(((.(.(.(((((.....))))).)).)))..((((((......))))))((((((....)))))),-26.0
+sequenc_1,GCCCATGTACAGGGGCCAGCTGCAGGTGGAATCTTAGTGATTCTCCAGAGGAAGGCCCTTCCAAGGTGTCAT,((((.((...(((((((..((...((.((((((.....))))))))...))..))))))).)).)).))...,-25.100000381469727
+sequenc_1,GTTGCTTCCAGTCTGAATAGCATCCAGTTGACAGGTGGGGGCTCAGCAATGGGCTAGTCCCCCCAAGGAGAT,.....((((.(((................))).((.(((((((.(((.....))))))))))))..))))..,-21.899999618530273
+sequenc_1,GTGCAAGGCAGCCCATGGTGTGACCCAGATTCCTAGGGTCATCAGGCCCAGGAGGCTTCTAATCTTGAAGGT,...(((((.(((((.(((((((((((((....)).)))))).))...))).).)))).....))))).....,-21.0
+sequenc_1,GCTAAGGTAGAGTTCCCAGAGCCTCAAGCAGCCTGGGGATGGGCACCAGGTCCATTTCCAATCTGGATGTGT,(((..((........))..)))(.((..(((..(((((((((((.....)))))))))))..)))..)).).,-24.100000381469727
+sequenc_1,GAGTGCTTGTCCCATTCATCACATGGGAGGAAGCCATAGTGTCAGGGCCCTTCAAGCTGGGGAAGCCCTAGT,..(.((((.((((((.......))))))..)))))........(((((.(((((...)))))..)))))...,-21.5
+sequenc_1,GGGTCCCATGGGGTGCATTATATCCAGTCCAGAAGAGCACTTGGTTGAGGTCCCTGGAAAGCAGCCTCAGCT,.(.((...((((.((.........)).))))...)).)....(((((((((..((....))..))))))))),-20.899999618530273
+sequenc_1,GCCCTTAAAGTATCTGGGGCACCAGAGATTCCCCCTCAAGGGTGGTTGTCTCAGGAGAGTGCATGCAGGCAT,(((((..........))))).((.(((((.(((((....))).))..))))).))...((((......)))),-25.299999237060547
+sequenc_1,GTAGGAGCCACATCTGTCCCCTTGAAGAAGGTGCTAAGCATCCTGAGGGCAGTTGGCCAGGGGTCATTCCAT,......((((...(((..(((((.....((((((...))).))))))))))).))))...(((....)))..,-18.700000762939453
